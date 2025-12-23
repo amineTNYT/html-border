@@ -16,5 +16,5 @@ C'est une méthode simple et pratique pour comprendre les propriétés de bordur
 # 🌐 Recources !
 - [learn border](https://github.com/amineTNYT/html-border/blob/main/border.html)
 - [learn border version 2](https://github.com/amineTNYT/html-border/blob/main/border(1).html)
-- 
+ 
 
