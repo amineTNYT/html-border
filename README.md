@@ -16,6 +16,3 @@ C'est une méthode simple et pratique pour comprendre les propriétés de bordur
 # 🌐 Langue / Language
 Choisissez la version que vous préférez :
 
-Version Française (README.md ou README_fr.md) - Pour apprendre en français.
-
-English Version (README_en.md) - For learning in English.
