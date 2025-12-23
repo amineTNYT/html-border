@@ -13,6 +13,8 @@ Collez et testez le code dans vos propres projets pour expérimenter et apprendr
 
 C'est une méthode simple et pratique pour comprendre les propriétés de bordures CSS !
 
-# 🌐 Langue / Language
-Choisissez la version que vous préférez :
+# 🌐 Recources !
+- [learn border](https://github.com/amineTNYT/html-border/blob/main/border.html)
+- [learn border version 2](https://github.com/amineTNYT/html-border/blob/main/border(1).html)
+- 
 
